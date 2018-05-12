@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7061
     wikipedia: http://en.wikipedia.org/wiki/Andrew_Cecil_Bradley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36773#Oxford-Lectures-on-Poetry
 gutenberg_issued: '2011-07-17'
 gutenberg_type: Text
 identifiers:
