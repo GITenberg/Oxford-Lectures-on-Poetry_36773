@@ -1,0 +1,35 @@
+_repo: Oxford-Lectures-on-Poetry_36773
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bradley, A. C. (Andrew Cecil)
+    alias: Bradley, Andrew Cecil
+    birthdate: 1851
+    deathdate: 1935
+    gutenberg_agent_id: '7061'
+    url: http://www.gutenberg.org/2009/agents/7061
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Cecil_Bradley
+description: ''
+gutenberg_issued: '2011-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36773'
+  lccn: '65008942'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wordsworth, William, 1770-1850 -- Criticism and interpretation'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Criticism and interpretation'
+- !lcsh 'Poetry'
+- !lcc 'PN'
+tableOfContents: Poetry for poetry's sake -- The sublime -- Hegel's theory of tragedy
+  -- Wordsworth -- Shelley's view of poetry -- The long poem in the age of Wordsworth
+  -- The letters of Keats -- The rejection of Falstaff -- Shakespeare's 'Antony and
+  Cleopatra' -- Shakespeare the man -- Shakespeare's theatre and audience.
+title: Oxford Lectures on Poetry
+url: http://www.gutenberg.org/ebooks/36773
